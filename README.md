@@ -1,5 +1,5 @@
 # YJSF
-### 2 Proyecto usando java y JSF se agregó un un poco de javacript.
+### 2 Proyecto usando java y JSF se agregó un poco de javacript.
 
 Reporisorio donde no se integro Javascript pero se agrego lo de paginacion: https://github.com/CayetanoHerreraLuisRicardo/ProductoJSF
 
