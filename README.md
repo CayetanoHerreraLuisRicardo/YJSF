@@ -17,5 +17,5 @@ Tecnologias utilizadas:
 
 > Screenshot eliminar proucto con javascrit:
 
-![eliminar-JSF](https://github.com/CayetanoHerreraLuisRicardo/YJSF/blob/master/LISTADO-YJSF)
+![eliminar-JSF](https://github.com/CayetanoHerreraLuisRicardo/YJSF/blob/master/LISTADO-YJSF.PNG)
 
